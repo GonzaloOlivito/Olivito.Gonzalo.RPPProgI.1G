@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605570093 source:c:\users\lenovo\desktop\olivito\recuperatorioolivito\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
